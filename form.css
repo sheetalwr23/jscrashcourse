@@ -1,0 +1,36 @@
+body {
+  background-image: url("images/contact-us-image.jpg");
+  font-size: 18px;
+}
+.container {
+  margin: 0 auto;
+  width: 53%;
+  border: 2px solid orange;
+  padding: 8px;
+  background-color: #fff;
+}
+h2 {
+  text-align: center;
+}
+input {
+  width: 98%;
+  padding: 4px;
+}
+input[type="date"] {
+  padding: 5px;
+}
+
+.time-for-call {
+  float: left;
+  width: 48%;
+}
+.input-container {
+  margin-top: 20px;
+}
+.btn {
+  background-color: #ef8e34;
+  border: 0;
+  padding: 8px;
+  color: #fff;
+  font-weight: bold;
+}
